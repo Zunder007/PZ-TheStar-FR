@@ -1,0 +1,5 @@
+Tooltip_FR = {
+    Tooltip_TheStar_AmmoCount = "Munitions dans l'inventaire",
+    Tooltip_TheStar_AmmoCount_Total = "TOTAL: %1",
+    Tooltip_TheStar_BatteryCharge = "Charge restante: ~ %1 h %2 min",
+}
